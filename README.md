@@ -1,6 +1,6 @@
 [nanogallery2](http://nanogallery2.nanostudio.org)
 
-### nanogallery2 portable
+### nanogallery2 portable - markdown / Github Pages implementation example
 
 <!-- nanogallery2 portable - http://nano.gallery -->
 <div id="ngy2p" data-nanogallery2-portable='{ "userID": "149035168@N08", "kind": "flickr", "thumbnailWidth":"auto", "thumbnailHeight":100}'>nanogallery2</div>
