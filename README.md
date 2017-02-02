@@ -3,7 +3,7 @@
 
 ### nanogallery2 portable - markdown / Github Pages implementation example
 
-[view the result](http:/.org/ngy2_jekyll/)
+[view the result](http://nanostudio.org/ngy2_jekyll/)
 
 [nanogallery2 portable homepage](http://nano.gallery)
 
